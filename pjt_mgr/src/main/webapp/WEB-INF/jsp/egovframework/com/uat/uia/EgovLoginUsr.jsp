@@ -245,7 +245,7 @@ function fnInit() {
                               <tr>
                                 <td height="3"></td>
                               </tr>
-                              <tr>
+                             <!--  <tr>
                                 <td>
                                     <table border="0" cellspacing="0" cellpadding="0">
                                       <tr>
@@ -255,7 +255,7 @@ function fnInit() {
                                       </tr>
                                     </table>
                                 </td>
-                              </tr>
+                              </tr> -->
                             </table>
                         </td>
                       </tr>
